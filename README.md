@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Ojha</h1>
 <h3 align="center">Thank You for taking the time to view my GitHub Profile 😄</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1dY9fzOCbCT3sQd4wwmwAF&ust=1713799909843000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjq7bXQ04UDFQAAAAAdAAAAABAE">
+<img align="center" alt="cover" width="100%" height = "250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1dY9fzOCbCT3sQd4wwmwAF&ust=1713799909843000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjq7bXQ04UDFQAAAAAdAAAAABAE">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojha-abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="ojha-abhishek" /> </p>
 
