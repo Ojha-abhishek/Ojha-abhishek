@@ -1,3 +1,4 @@
+![logo](https://github.com/Ojha-abhishek/Ojha-abhishek/blob/main/git.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Ojha</h1>
 <h3 align="center">Thank You for taking the time to view my GitHub Profile 😄</h3>
 
