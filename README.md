@@ -9,7 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojha-abhishek" alt="ojha-abhishek" /></a> </p>
 
-- 🌱 I’m currently learning **Azure, Kubernetes, Docker, CICD , TERRAFORM.**
+- 🌱 I’m have (Az104,Azure Admininstrator),(Az400 DevOps) and Terraform Associate
+- And also learning Kubernetes, Docker, Python
 
 - 📫 How to reach me **abhishek.ojha114@gmail.com**
 
